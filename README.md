@@ -1,6 +1,5 @@
 # 🤖 AI Sentiment Analysis
-## deployed website
-https://ai-sentiment-analyzer1.streamlit.app/
+
 A Machine Learning-based Sentiment Analysis web application that predicts whether a given text expresses **Positive**, **Neutral**, or **Negative** sentiment.
 
 The project uses **TF-IDF Vectorization**, **Linear Support Vector Machine (LinearSVC)**, and **Streamlit** for deployment.
@@ -145,7 +144,11 @@ Negative
 I didn't like this movie because the story was boring and the acting was disappointing.
 ```
 
+## 🌐 Live Demo
 
+🚀 **Try the application here:**
+
+[AI Sentiment Analysis App](https://ai-sentiment-analyzer1.streamlit.app/)
 
 ---
 
